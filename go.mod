@@ -1,4 +1,4 @@
-module github.com/phoreproject/bls
+module github.com/Nanyan/bls
 
 require (
 	github.com/google/pprof v0.0.0-20190309163659-77426154d546 // indirect
