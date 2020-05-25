@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Nanyan/bls"
 )
 
 func BenchmarkMACWithCarry(b *testing.B) {

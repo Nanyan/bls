@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Nanyan/bls"
 )
 
 var (

@@ -50,7 +50,7 @@ func r(i int) Component {
 }
 
 func main() {
-	Package("github.com/phoreproject/bls")
+	Package("github.com/Nanyan/bls")
 	Implement("MACWithCarry")
 	Doc("Finds a + b * c + carry and returns the result and the carry.")
 	b := Load(Param("b"), GP64())

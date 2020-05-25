@@ -3,7 +3,7 @@ package bls_test
 import (
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Nanyan/bls"
 )
 
 func TestBitIterator(t *testing.T) {

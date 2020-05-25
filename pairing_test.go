@@ -3,7 +3,7 @@ package bls_test
 import (
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Nanyan/bls"
 )
 
 var c000, _ = bls.FQReprFromString("2819105605953691245277803056322684086884703000473961065716485506033588504203831029066448642358042597501014294104502", 10)

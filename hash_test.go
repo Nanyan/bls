@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Nanyan/bls"
 )
 
 var expectedG1X, _ = bls.FQReprFromString("157b33991dfbf91105d15160da770421049539e3708dbe7d0fac0bcdcf70cde4e0ba392e05d248ebeea681629653501e", 16)
